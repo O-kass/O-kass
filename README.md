@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I started a CS degree having not taken CS at A-level or GCSE 😂 ...
 
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-kass_theme=molstak)](https://github.com/anuraghazra/github-readme-stats)
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-kass&count_icons=true&theme=molstak)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 O-kass/O-kass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
