@@ -5,7 +5,7 @@
 - 📫 How to reach me [LinkedIn: OmarKassam](www.linkedin.com/in/omar-kassam-1215b1249) , [Email](kassom771@gmail.com)  ...
 
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-kass&count_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-kass&count_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats) --->
 
 <!---
 O-kass/O-kass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
